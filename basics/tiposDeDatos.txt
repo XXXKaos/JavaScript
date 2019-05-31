@@ -1,0 +1,36 @@
+//Tipos de datos en JavaScript
+
+//String
+cadena = "Hola todos shavales";
+cadena2 ='Esto tambien es un String'; 
+
+//Numericos
+num = 1000;
+num2 = -2.3;
+
+//boolean
+bool= true;
+bool2 = false;
+
+//array
+arreglo = ['Javier', 'Martha', 'Andres'];
+arreglo2 = [1, 2, 3, 4, 5];
+arreglo3 = [true, false, true, false];
+
+//Tipo Object > clave:valor
+
+{
+    "username": 'Javier',
+    "score": 70.4,
+    "hours": 14,
+    "activo": true,
+    "friends":['user1', 'user2', 'user3']
+}
+
+{
+    "username": 'Eduardo',
+    "score": 80.4,
+    "hours": 20,
+    "activo": true,
+    "friends":['user4', 'user5', 'user6']
+}
